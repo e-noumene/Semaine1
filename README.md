@@ -31,11 +31,10 @@ de me former et de faire de ma passion mon métier.
 
 ##Simplonline pourquoi ?
 
-Je suis en reconversion depuis un peu plus d'un an, j'ai effectué, étant 
-toujours en poste dans mon ancien emploi, <br>une première formation dans le 
-développement Web. Mais....jongler entre deux secteurs d'activité complétement
-différents <br>s'est révélé compliqué et je n'ai pu certifié
-cette formation avec, disons, des torts partagés....
+Je suis en reconversion depuis un peu plus d'un an, j'ai effectué, étant toujours en poste 
+dans mon ancien emploi,  une première formation   
+dans le développement Web. Mais....jongler entre deux secteurs d'activité complétementdifférents s'est révélé compliqué     
+et je n'ai pu certifié cette formation avec, disons, des torts partagés....
 
 J'aime coder, j'ai choisi Simplon pour sa phylosophie et sa pédagogie maintenant 
 reconnue basé sur la pratique  (cf j'aime coder).<br> J'attends de cette formation,
